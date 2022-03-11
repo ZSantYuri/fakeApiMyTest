@@ -1,0 +1,7 @@
+{
+  "usuarios":[
+    {"id":1,"nome":"evandro","email":"evandro@acnsf.com.br","senha":"123456"},
+    {"id":2,"nome":"walmir","email":"walmir@acnsf.com.br","senha":"123456"},
+    {"id":3,"nome":"yuri","email":"yuri@acnsf.com.br","senha":"123456"}
+  ]
+}
